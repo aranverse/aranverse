@@ -25,7 +25,40 @@
 乀 (ˍ, ل ل　　　じしˍ,)ノ
 </p>
 
----
+<table border="0" width="100%">
+  <!-- BARIS 1: Foto Elemen 1 (Kiri) & Hello + About Me Profesional (Kanan) -->
+  <tr>
+    <td width="40%" align="center" valign="middle">
+      <img src="img/profil.png" width="100%" alt="Maharani Element" />
+    </td>
+    <td width="60%" align="left" valign="middle">
+      <img src="img/hello.png" width="180px" alt="Hello!" /><br/><br/>
+      <p>
+        Halo! Aku Rofiqoh Dini Maharani, akrab dipanggil sebagai <b>Rani</b>. Aku punya ketertarikan besar dalam menggabungkan logika pemrograman dan estetika visual. Sehari-hari aku banyak ngabisin waktu buat ngulik baris kode web, bereksperimen dengan desain grafis, sampai eksplorasi dunia 3D. Bagi aku, ngoding bukan cuma soal bikin fungsi berjalan, tapi juga menciptakan pengalaman visual yang nyaman dan berkesan.
+      </p>
+    </td>
+  </tr>
+  
+  <tr>
+    <td width="60%" align="left" valign="middle">
+      <!-- Card Status GitHub Mini -->
+      <a href="https://github.com/aranverse">
+        <img src="https://github-readme-stats.vercel.app/api?username=aranverse&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&hide_border=true" width="100%" alt="GitHub Stats Mini" />
+      </a>
+      <br/><br/>
+      <!-- Spotify Playlist Mood Widget -->
+      <p>
+        🎧 <b>Playlist Mood:</b><br/>
+        <a href="https://open.spotify.com/user/31buhaahdm4b5ttthrq7wgmdp6i4">
+          <img src="https://novatrix-spotify-readme.vercel.app/api/spotify?background_color=0d1117&border_color=0d1117&text_color=ffffff" width="100%" alt="Spotify Currently Playing" />
+        </a>
+      </p>
+    </td>
+    <td width="40%" align="center" valign="middle">
+      <img src="img/full.png" width="100%" alt="Aran Element" />
+    </td>
+  </tr>
+</table>
 
 ### 🛠️ Tech Stack & Tools
 
