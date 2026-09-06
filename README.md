@@ -85,9 +85,9 @@
 </p>
 
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" style="margin: 4px;" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Roblox-000000?style=for-the-badge&logo=roblox&logoColor=white" style="margin: 4px;" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" style="margin: 4px;" /></a>
+  <img src="https://img.shields.io/badge/Discord-gothiescran-5865F2?style=for-the-badge&logo=discord&logoColor=white" style="margin: 4px;" />
+  <a href="https://www.roblox.com/share?code=3bf5d577785e1f418ee5d2f23cda7671&type=Profile&source=ProfileShare"><img src="https://img.shields.io/badge/Roblox-000000?style=for-the-badge&logo=roblox&logoColor=white" style="margin: 4px;" /></a>
+  <a href="https://open.spotify.com/user/31buhaahdm4b5ttthrq7wgmdp6i4"><img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" style="margin: 4px;" /></a>
 </p>
 
 ---
@@ -102,3 +102,12 @@
     </td>
   </tr>
 </table>
+
+<p align="center">
+﹥*:ꔫ:*+ﾟ<br/>
+˘͈ᵕ˘͈<br/>
+˚୨୧⋆｡˚ ⋆<br/>
+⋆ ˚｡⋆୨୧˚<br/>
+𝐍𝐨𝐰 𝐥𝐨𝐚𝐝𝐢𝐧𝐠. . . ███████▒▒▒ 60%<br/>
+ᴄᴏᴍᴘʟᴇᴛᴇ! ▒▒▒▒▒▒▒▒▒▒ 100%
+</p>
