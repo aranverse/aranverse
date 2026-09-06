@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="img/banner.png" width="100%" alt="Rofiqoh Banner" />
+  <img src="img/banner.png" width="75%" alt="Rofiqoh Banner" />
 </p>
 
 <p align="center">
@@ -102,12 +102,3 @@
     </td>
   </tr>
 </table>
-
-<p align="center">
-﹥*:ꔫ:*+ﾟ<br/>
-˘͈ᵕ˘͈<br/>
-˚୨୧⋆｡˚ ⋆<br/>
-⋆ ˚｡⋆୨୧˚<br/>
-𝐍𝐨𝐰 𝐥𝐨𝐚𝐝𝐢𝐧𝐠. . . ███████▒▒▒ 60%<br/>
-ᴄᴏᴍᴘʟᴇᴛᴇ! ▒▒▒▒▒▒▒▒▒▒ 100%
-</p>
