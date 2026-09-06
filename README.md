@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:FF61D2&height=100&section=header" width="100%" />
 </p>
 
 <p align="center">
@@ -15,48 +15,30 @@
 </p>
 
 <p align="center">
-  <em>11 y.o | Software Engineering Student | Web Dev Learner | Front-end & Back-end</em>
+  <em>Software Engineering Student | Web Dev Learner | Front-end & Back-end</em>
 </p>
 
 <p align="center">
-  <pre>
-           へ            ╱| 
-      ૮  -   ՛ ) ~☆ (`   -  7. ~ ♡
-       /   ⁻  ៸|         |、⁻〵
-  乀 (ˍ, ل ل         じしˍ,)ノ
-  </pre>
+へ　　　　╱|<br/>
+૮ - ՛ ) ~☆ (｀ - 7. ~ ♡<br/>
+/　⁻ ៸|　　　|、⁻〵<br/>
+乀 (ˍ, ل ل　　　じしˍ,)ノ
 </p>
 
-<!-- SECTION ABOUT & STATS -->
+---
+
 <table border="0" width="100%">
-  <!-- BARIS 1: Foto Profil (Kiri) & Hello + About Me (Kanan) -->
   <tr>
     <td width="40%" align="center" valign="middle">
       <img src="img/profil.png" width="100%" alt="Maharani Element" />
     </td>
     <td width="60%" align="left" valign="middle">
-      <img src="img/hello.png" width="180px" alt="Hello!" /><br/><br/>
-      <p>
-        Halo! Aku Rofiqoh Dini Maharani, akrab dipanggil sebagai <b>Rani</b> atau <b>Aran</b>. Aku punya ketertarikan besar dalam menggabungkan logika pemrograman dan estetika visual. Sehari-hari aku banyak ngabisin waktu buat ngulik baris kode web, bereksperimen dengan desain grafis, sampai eksplorasi dunia 3D. Bagi aku, ngoding bukan cuma soal bikin fungsi berjalan, tapi juga menciptakan pengalaman visual yang nyaman dan berkesan.
-      </p>
+      <img src="img/hello.png" width="180px" alt="Hello!" /><br/><br/>Halo! Aku Rofiqoh Dini Maharani, akrab dipanggil sebagai <b>Rani</b> atau <b>Aran</b>. Aku punya ketertarikan besar dalam menggabungkan logika pemrograman dan estetika visual. Sehari-hari aku banyak ngabisin waktu buat ngulik baris kode web, bereksperimen dengan desain grafis, sampai eksplorasi dunia 3D. Bagi aku, ngoding bukan cuma soal bikin fungsi berjalan, tapi juga menciptakan pengalaman visual yang nyaman dan berkesan.
     </td>
   </tr>
-  
-  <!-- BARIS 2: GitHub Stats Mini + Spotify Badge (Kiri) & Foto Full (Kanan) -->
   <tr>
     <td width="60%" align="left" valign="middle">
-      <!-- Card Status GitHub Mini -->
-      <a href="https://github.com/aranverse">
-        <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=aranverse&show_icons=true&theme=rose_pine&hide_border=true" width="100%" alt="GitHub Stats Mini" />
-      </a>
-      <br/><br/>
-      <!-- Spotify Badge -->
-      <p>
-        🎧 <b>Playlist Mood:</b><br/>
-        <a href="https://open.spotify.com/user/31buhaahdm4b5ttthrq7wgmdp6i4" target="_blank">
-          <img src="https://img.shields.io/badge/Spotify-Listening_to_Indie_Pop-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
-        </a>
-      </p>
+      <a href="https://github.com/aranverse"><img src="https://github-readme-stats-eight-theta.vercel.app/api?username=aranverse&show_icons=true&theme=rose_pine&hide_border=true" width="100%" alt="GitHub Stats Mini" /></a><br/><br/>🎧 <b>Playlist Mood:</b><br/><a href="https://open.spotify.com/user/31buhaahdm4b5ttthrq7wgmdp6i4" target="_blank"><img src="https://img.shields.io/badge/Spotify-Listening_to_Indie_Pop-1DB954?style=for-the-badge&logo=spotify&logoColor=white" /></a>
     </td>
     <td width="40%" align="center" valign="middle">
       <img src="img/full.png" width="100%" alt="Aran Element" />
@@ -87,25 +69,23 @@
 ### ୨୧⋆｡˚ Vibe Check
 
 <p align="center">
-  <pre>
-⠀⠀⠀⠀⢀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⣠⠞⠹⣆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣴⡶⣤⡀⠀⠀⠀⠀⠀⠀
-⠀⠀⣼⣃⠀⠀⠘⠧⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⢿⣿⣿⣧⠀⠀⠀⠀⠀⠀
-⠀⢀⣀⣈⣙⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣿⣿⣿⣿⣧⠀⠀⠀⠀⠀
-⢀⣟⠉⠉⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⣿⣿⣿⣿⢹⡆⠀⠀⠀⠀
-⠈⠉⠋⠙⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣘⣷⡄⢿⡀⢸⠃⠀⠹⣿⣿⣿⣿⡇⠀⠀⠀⠀
-⠀⠀⢀⣤⣶⣿⣿⣿⣿⣿⣿⣷⣶⣤⣤⠾⠋⠉⠀⠀⠀⠈⠀⠀⠀⠛⠲⣽⣿⣿⣿⠃⠀⠀⠀⠀
-⠀⠀⣯⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⢻⡽⠏⠀⠀⠀⠀⠀
-⠀⠀⠈⠻⢿⣿⣿⣿⣿⡿⠿⢛⡟⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢹⡄⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡼⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⢸⣿⡿⢻⡏⠉⠉⠉⠉⠐⠲⢦⣤⣀⣀⣀⣠⡤⠤⠤⠶⠶⠦⢿⢤⣀⣀⣀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⢿⠁⠸⡇⠀⠀⠀⢀⣀⠀⠀⣻⡿⠿⣿⡏⠀⠀⠀⠀⠀⠀⡼⠀⠈⣿⣿⠁
-⠀⠀⠀⠀⠀⠀⠀⠀⢸⠀⠀⠀⠀⠀⠀⢾⣿⠂⢀⡟⠀⠀⠸⡇⠀⣼⣿⡇⠀⠀⠀⠀⠀⣿⠁⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⢧⠸⡇⠀⢀⡀⢀⣀⣠⠎⠀⠐⠿⠃⢳⡀⠈⠉⠀⡀⠀⢠⠀⢀⠏⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠑⠻⣦⣾⢙⠿⢹⡇⠀⠀⠀⠀⠀⠀⠑⣾⠳⡞⢹⣆⣼⡡⠞⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢿⡈⠟⢀⣧⣤⣠⣤⣤⣤⣤⣤⣼⠀⠺⠌⡯⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⢀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀<br/>
+⠀⠀⠀⣠⠞⠹⣆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣴⡶⣤⡀⠀⠀⠀⠀⠀⠀<br/>
+⠀⠀⣼⣃⠀⠀⠘⠧⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⢿⣿⣿⣧⠀⠀⠀⠀⠀⠀<br/>
+⠀⢀⣀⣈⣙⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣿⣿⣿⣿⣧⠀⠀⠀⠀⠀<br/>
+⢀⣟⠉⠉⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⣿⣿⣿⣿⢹⡆⠀⠀⠀⠀<br/>
+⠈⠉⠋⠙⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣘⣷⡄⢿⡀⢸⠃⠀⠹⣿⣿⣿⣿⡇⠀⠀⠀⠀<br/>
+⠀⠀⢀⣤⣶⣿⣿⣿⣿⣿⣿⣷⣶⣤⣤⠾⠋⠉⠀⠀⠀⠈⠀⠀⠀⠛⠲⣽⣿⣿⣿⠃⠀⠀⠀⠀<br/>
+⠀⠀⣯⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⢻⡽⠏⠀⠀⠀⠀⠀<br/>
+⠀⠀⠈⠻⢿⣿⣿⣿⣿⡿⠿⢛⡟⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢹⡄⠀⠀⠀⠀⠀<br/>
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡼⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⠀⠀⠀⠀⠀<br/>
+⠀⠀⠀⠀⠀⠀⠀⢸⣿⡿⢻⡏⠉⠉⠉⠉⠐⠲⢦⣤⣀⣀⣀⣠⡤⠤⠤⠶⠶⠦⢿⢤⣀⣀⣀⠀<br/>
+⠀⠀⠀⠀⠀⠀⠀⠀⢿⠁⠸⡇⠀⠀⠀⢀⣀⠀⠀⣻⡿⠿⣿⡏⠀⠀⠀⠀⠀⠀⡼⠀⠈⣿⣿⠁<br/>
+⠀⠀⠀⠀⠀⠀⠀⠀⢸⠀⠀⠀⠀⠀⠀⢾⣿⠂⢀⡟⠀⠀⠸⡇⠀⣼⣿⡇⠀⠀⠀⠀⠀⣿⠁⠀<br/>
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⢧⠸⡇⠀⢀⡀⢀⣀⣠⠎⠀⠐⠿⠃⢳⡀⠈⠉⠀⡀⠀⢠⠀⢀⠏⠀⠀<br/>
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠑⠻⣦⣾⢙⠿⢹⡇⠀⠀⠀⠀⠀⠀⠑⣾⠳⡞⢹⣆⣼⡡⠞⠀⠀⠀<br/>
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢿⡈⠟⢀⣧⣤⣠⣤⣤⣤⣤⣤⣼⠀⠺⠌⡯⠀⠀⠀⠀⠀⠀<br/>
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠙⠒⠛⠁⠀⠀⠀⠀⠀⠀⠀⠈⠓⠶⠞⠁⠀⠀⠀⠀⠀⠀
-  </pre>
 </p>
 
 <p align="center">
@@ -122,17 +102,15 @@
 </p>
 
 <p align="center">
-  <pre>
-⠀⠀ ⡠⠒⢄      ᨘ⡴⠒⢦⣀⠔⠒⢄
-    ⡏   ⠉⠉⠉⣽⠀⢴⣷⠛⢲⠶⠚⣄
-    ⢸         ⠓⠚⠛⠤⡞⠛⠀⡞
-    ⢸              ᱸ⠉⢉⣇⣀⣀
-   ⠉⠉⣇⡀   ⣶⠀⠀  ⣀⠀⠀  ⣶⠀⠀⣾⠤⠤
-  ⢎ ⠡⠨ ⣃⡀ ⠀⠀⠀⠉⠀⠀⠀      ⡸⠒⠒
-   ⢸⢴⠉⠂⣘ᱸ⠖⢶⠒⠒⡶⢲⠒⡞⢣
-   ᱸ⠢⣉⣁⠜⠒⢄  ⠉⠉⠀⡠⠋⠉⠉
-                  ⠑⠒⠓⠒ᱸ
-  </pre>
+⠀⠀  ⡠⠒⢄  ⠀⠀   ᨘ⡴⠒⢦⣀⠔⠒⢄<br/>
+⠀⠀ ⡏  ⠀ ⠉⠉⠉⣽⠀⢴⣷⠛⢲⠶⠚⣄<br/>
+⠀⠀ ⢸ ⠀⠀⠀  ⠀⠀⠓⠚⠛⠤⡞⠛⠀⡞<br/>
+ ⠀⠀⢸ ⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⠀ᱸ⠉⢉⣇⣀⣀<br/>
+  ⠉⠉⣇⡀   ⣶⠀⠀  ⣀⠀⠀  ⣶⠀⠀⣾⠤⠤<br/>
+ ⢎ ⠡⠨ ⣃⡀ ⠀⠀⠀⠉⠀⠀⠀      ⡸⠒⠒<br/>
+   ⢸⢴⠉⠂⣘ᱸ⠖⢶⠒⠒⡶⢲⠒⡞⢣<br/>
+⠀ ᱸ⠢⣉⣁⠜⠒⢄  ⠉⠉⠀⡠⠋⠉⠉<br/>
+⠀⠀               ⠑⠒⠓⠒ᱸ
 </p>
 
 <p align="center">
@@ -156,5 +134,5 @@
 </table>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:FF61D2&height=100&section=footer" width="100%" />
 </p>
