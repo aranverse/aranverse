@@ -39,6 +39,7 @@
       </p>
     </td>
   </tr>
+</table>
   
  <!-- BARIS 2: GitHub Stats Mini + Spotify Badge (Kiri) & Foto Full (Kanan) -->
   <tr>
