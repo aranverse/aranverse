@@ -23,6 +23,8 @@
 ૮ - ՛ ) ~☆ (｀ - 7. ~ ♡<br/>
 /　⁻ ៸|　　　|、⁻〵<br/>
 乀 (ˍ, ل ل　　　じしˍ,)ノ
+
+  
 </p>
 
 <!-- SECTION ABOUT & STATS (SESUAI SKETSA) -->
