@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=rose&height=100&section=header" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header" width="100%" />
 </p>
 
 <p align="center">
@@ -19,10 +19,10 @@
 </p>
 
 <p align="center">
-へ    ╱|<br/>
+へ　　　　╱|<br/>
 ૮ - ՛ ) ~☆ (｀ - 7. ~ ♡<br/>
-/ ⁻ ៸|   |、⁻〵<br/>
-乀 (ˍ, ل ل   じしˍ,)ノ
+/　⁻ ៸|　　　|、⁻〵<br/>
+乀 (ˍ, ل ل　　　じしˍ,)ノ
 </p>
 
 <!-- SECTION ABOUT & STATS (SESUAI SKETSA) -->
@@ -150,5 +150,5 @@
 </table>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=rose&height=100&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
 </p>
