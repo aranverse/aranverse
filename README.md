@@ -39,18 +39,19 @@
     </td>
   </tr>
   
+ <!-- BARIS 2: GitHub Stats Mini + Spotify Badge (Kiri) & Foto Elemen 3 (Kanan) -->
   <tr>
     <td width="60%" align="left" valign="middle">
-      <!-- Card Status GitHub Mini -->
+      <!-- Card Status GitHub Mini (Pake API alternatif yang 100% stabil) -->
       <a href="https://github.com/aranverse">
-        <img src="https://github-readme-stats.vercel.app/api?username=aranverse&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&hide_border=true" width="100%" alt="GitHub Stats Mini" />
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=aranverse&show_icons=true&theme=rose_pine&hide_border=true" width="100%" alt="GitHub Stats Mini" />
       </a>
       <br/><br/>
-      <!-- Spotify Playlist Mood Widget -->
+      <!-- Spotify Currently Playing / Playlist Widget (Pakai Spotify Lanyard/Novatoken alternatif yang publik) -->
       <p>
         🎧 <b>Playlist Mood:</b><br/>
         <a href="https://open.spotify.com/user/31buhaahdm4b5ttthrq7wgmdp6i4">
-          <img src="https://novatrix-spotify-readme.vercel.app/api/spotify?background_color=0d1117&border_color=0d1117&text_color=ffffff" width="100%" alt="Spotify Currently Playing" />
+          <img src="https://spotify-github-profile.vcroque.com/api/spotify?background_color=0d1117&border_color=0d1117&text_color=ffffff" width="100%" alt="Spotify Status" />
         </a>
       </p>
     </td>
@@ -58,7 +59,6 @@
       <img src="img/full.png" width="100%" alt="Aran Element" />
     </td>
   </tr>
-</table>
 
 ### 🛠️ Tech Stack & Tools
 
