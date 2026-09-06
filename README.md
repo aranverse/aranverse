@@ -15,19 +15,19 @@
 </p>
 
 <p align="center">
-  <em>Software Engineering Student | Web Dev Learner | Front-end & Back-end</em>
+  <em>11 y.o | Software Engineering Student | Web Dev Learner | Front-end & Back-end</em>
 </p>
 
 <p align="center">
-へ　　　　╱|<br/>
-૮ - ՛ ) ~☆ (｀ - 7. ~ ♡<br/>
-/　⁻ ៸|　　　|、⁻〵<br/>
-乀 (ˍ, ل ل　　　じしˍ,)ノ
-
-  
+  <pre>
+           へ            ╱| 
+      ૮  -   ՛ ) ~☆ (`   -  7. ~ ♡
+       /   ⁻  ៸|         |、⁻〵
+  乀 (ˍ, ل ل         じしˍ,)ノ
+  </pre>
 </p>
 
-<!-- SECTION ABOUT & STATS (SESUAI SKETSA) -->
+<!-- SECTION ABOUT & STATS -->
 <table border="0" width="100%">
   <!-- BARIS 1: Foto Profil (Kiri) & Hello + About Me (Kanan) -->
   <tr>
@@ -37,13 +37,12 @@
     <td width="60%" align="left" valign="middle">
       <img src="img/hello.png" width="180px" alt="Hello!" /><br/><br/>
       <p>
-        Halo! Aku Rofiqoh Dini Maharani, akrab dipanggil sebagai <b>Rani</b>. Aku punya ketertarikan besar dalam menggabungkan logika pemrograman dan estetika visual. Sehari-hari aku banyak ngabisin waktu buat ngulik baris kode web, bereksperimen dengan desain grafis, sampai eksplorasi dunia 3D. Bagi aku, ngoding bukan cuma soal bikin fungsi berjalan, tapi juga menciptakan pengalaman visual yang nyaman dan berkesan.
+        Halo! Aku Rofiqoh Dini Maharani, akrab dipanggil sebagai <b>Rani</b> atau <b>Aran</b>. Aku punya ketertarikan besar dalam menggabungkan logika pemrograman dan estetika visual. Sehari-hari aku banyak ngabisin waktu buat ngulik baris kode web, bereksperimen dengan desain grafis, sampai eksplorasi dunia 3D. Bagi aku, ngoding bukan cuma soal bikin fungsi berjalan, tapi juga menciptakan pengalaman visual yang nyaman dan berkesan.
       </p>
     </td>
   </tr>
-</table>
   
- <!-- BARIS 2: GitHub Stats Mini + Spotify Badge (Kiri) & Foto Full (Kanan) -->
+  <!-- BARIS 2: GitHub Stats Mini + Spotify Badge (Kiri) & Foto Full (Kanan) -->
   <tr>
     <td width="60%" align="left" valign="middle">
       <!-- Card Status GitHub Mini -->
@@ -63,6 +62,9 @@
       <img src="img/full.png" width="100%" alt="Aran Element" />
     </td>
   </tr>
+</table>
+
+---
 
 ### 🛠️ Tech Stack & Tools
 
@@ -85,23 +87,25 @@
 ### ୨୧⋆｡˚ Vibe Check
 
 <p align="center">
-⠀⠀⠀⠀⢀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀<br/>
-⠀⠀⠀⣠⠞⠹⣆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣴⡶⣤⡀⠀⠀⠀⠀⠀⠀<br/>
-⠀⠀⣼⣃⠀⠀⠘⠧⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⢿⣿⣿⣧⠀⠀⠀⠀⠀⠀<br/>
-⠀⢀⣀⣈⣙⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣿⣿⣿⣿⣧⠀⠀⠀⠀⠀<br/>
-⢀⣟⠉⠉⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⣿⣿⣿⣿⢹⡆⠀⠀⠀⠀<br/>
-⠈⠉⠋⠙⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣘⣷⡄⢿⡀⢸⠃⠀⠹⣿⣿⣿⣿⡇⠀⠀⠀⠀<br/>
-⠀⠀⢀⣤⣶⣿⣿⣿⣿⣿⣿⣷⣶⣤⣤⠾⠋⠉⠀⠀⠀⠈⠀⠀⠀⠛Ⲳ⣽⣿⣿⣿⠃⠀⠀⠀⠀<br/>
-⠀⠀⣯⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⢻⡽⠏⠀⠀⠀⠀⠀<br/>
-⠀⠀⠈⠻⢿⣿⣿⣿⣿⡿⠿⢛⡟⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢹⡄⠀⠀⠀⠀⠀<br/>
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡼⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⠀⠀⠀⠀⠀<br/>
-⠀⠀⠀⠀⠀⠀⠀⢸⣿⡿⢻⡏⠉⠉⠉⠉⠐⠲⢦⣤⣀⣀⣀⣠⡤⠤⠤⠶⠶⠦⢿⢤⣀⣀⣀⠀<br/>
-⠀⠀⠀⠀⠀⠀⠀⠀⢿⠁⠸⡇⠀⠀⠀⢀⣀⠀⠀⣻⡿⠿⣿⡏⠀⠀⠀⠀⠀⠀⡼⠀⠈⣿⣿⠁<br/>
-⠀⠀⠀⠀⠀⠀⠀⠀⢸⠀⠀⠀⠀⠀⠀⢾⣿⠂⢀⡟⠀⠀⠸⡇⠀⣼⣿⡇⠀⠀⠀⠀⠀⣿⠁⠀<br/>
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⢧⠸⡇⠀⢀⡀⢀⣀⣠⠎⠀⠐⠿⠃⢳⡀⠈⠉⠀⡀⠀⢠⠀⢀⠏⠀⠀<br/>
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠑⠻⣦⣾⢙⠿⢹⡇⠀⠀⠀⠀⠀⠀⠑⣾⠳⡞⢹⣆⣼⡡⠞⠀⠀⠀<br/>
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢿⡈⠟⢀⣧⣤⣠⣤⣤⣤⣤⣤⣼⠀⠺⠌⡯⠀⠀⠀⠀⠀⠀<br/>
+  <pre>
+⠀⠀⠀⠀⢀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⣠⠞⠹⣆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣴⡶⣤⡀⠀⠀⠀⠀⠀⠀
+⠀⠀⣼⣃⠀⠀⠘⠧⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⢿⣿⣿⣧⠀⠀⠀⠀⠀⠀
+⠀⢀⣀⣈⣙⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣿⣿⣿⣿⣧⠀⠀⠀⠀⠀
+⢀⣟⠉⠉⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⣿⣿⣿⣿⢹⡆⠀⠀⠀⠀
+⠈⠉⠋⠙⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣘⣷⡄⢿⡀⢸⠃⠀⠹⣿⣿⣿⣿⡇⠀⠀⠀⠀
+⠀⠀⢀⣤⣶⣿⣿⣿⣿⣿⣿⣷⣶⣤⣤⠾⠋⠉⠀⠀⠀⠈⠀⠀⠀⠛⠲⣽⣿⣿⣿⠃⠀⠀⠀⠀
+⠀⠀⣯⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⢻⡽⠏⠀⠀⠀⠀⠀
+⠀⠀⠈⠻⢿⣿⣿⣿⣿⡿⠿⢛⡟⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢹⡄⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡼⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⢸⣿⡿⢻⡏⠉⠉⠉⠉⠐⠲⢦⣤⣀⣀⣀⣠⡤⠤⠤⠶⠶⠦⢿⢤⣀⣀⣀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⢿⠁⠸⡇⠀⠀⠀⢀⣀⠀⠀⣻⡿⠿⣿⡏⠀⠀⠀⠀⠀⠀⡼⠀⠈⣿⣿⠁
+⠀⠀⠀⠀⠀⠀⠀⠀⢸⠀⠀⠀⠀⠀⠀⢾⣿⠂⢀⡟⠀⠀⠸⡇⠀⣼⣿⡇⠀⠀⠀⠀⠀⣿⠁⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⢧⠸⡇⠀⢀⡀⢀⣀⣠⠎⠀⠐⠿⠃⢳⡀⠈⠉⠀⡀⠀⢠⠀⢀⠏⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠑⠻⣦⣾⢙⠿⢹⡇⠀⠀⠀⠀⠀⠀⠑⣾⠳⡞⢹⣆⣼⡡⠞⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢿⡈⠟⢀⣧⣤⣠⣤⣤⣤⣤⣤⣼⠀⠺⠌⡯⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠙⠒⠛⠁⠀⠀⠀⠀⠀⠀⠀⠈⠓⠶⠞⠁⠀⠀⠀⠀⠀⠀
+  </pre>
 </p>
 
 <p align="center">
@@ -118,15 +122,17 @@
 </p>
 
 <p align="center">
-⠀⠀  ⡠⠒⢄  ⠀⠀   ᨘ⡴⠒⢦⣀⠔⠒⢄<br/>
-⠀⠀ ⡏  ⠀ ⠉⠉⠉⣽⠀⢴⣷⠛⢲⠶⠚⣄<br/>
-⠀⠀ ⢸ ⠀⠀⠀  ⠀⠀⠓⠚⠛⠤⡞⠛⠀⡞<br/>
- ⠀⠀⢸ ⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⠀ᱸ⠉⢉⣇⣀⣀<br/>
-  ⠉⠉⣇⡀   ⣶⠀⠀  ⣀⠀⠀   ⣶⠀⠀⣾⠤⠤<br/>
- ⢎ ⠡⠨ ⣃⡀ ⠀⠀⠀⠉⠀⠀⠀     ⡸⠒⠒<br/>
-    ⢸⢴⠉⠂⣘ᱸ⠖⢶⠒⠒⡶⢲⠒⡞⢣<br/>
-⠀ ᱸ⠢⣉⣁⠜⠒⢄  ⠉⠉⠀⡠⠋⠉⠉<br/>
-⠀⠀                 ⠑⠒⠓⠒ᱸ
+  <pre>
+⠀⠀ ⡠⠒⢄      ᨘ⡴⠒⢦⣀⠔⠒⢄
+    ⡏   ⠉⠉⠉⣽⠀⢴⣷⠛⢲⠶⠚⣄
+    ⢸         ⠓⠚⠛⠤⡞⠛⠀⡞
+    ⢸              ᱸ⠉⢉⣇⣀⣀
+   ⠉⠉⣇⡀   ⣶⠀⠀  ⣀⠀⠀  ⣶⠀⠀⣾⠤⠤
+  ⢎ ⠡⠨ ⣃⡀ ⠀⠀⠀⠉⠀⠀⠀      ⡸⠒⠒
+   ⢸⢴⠉⠂⣘ᱸ⠖⢶⠒⠒⡶⢲⠒⡞⢣
+   ᱸ⠢⣉⣁⠜⠒⢄  ⠉⠉⠀⡠⠋⠉⠉
+                  ⠑⠒⠓⠒ᱸ
+  </pre>
 </p>
 
 <p align="center">
