@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="img/banner.png" width="75%" alt="Rofiqoh Banner" />
+  <img src="img/banner.png" width="100%" alt="Rofiqoh Banner" />
 </p>
 
 <p align="center">
@@ -26,18 +26,12 @@
 ### 🛠️ Tech Stack & Tools
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" style="margin: 4px;" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" style="margin: 4px;" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" style="margin: 4px;" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" style="margin: 4px;" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" style="margin: 4px;" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" style="margin: 4px;" />
-  <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" style="margin: 4px;" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,cs,php,mysql,blender" alt="Tech Stack" />
 </p>
 
 ---
 
-### 🧩 Vibe Check
+### ୨୧⋆｡˚ Vibe Check
 
 <p align="center">
 ⠀⠀⠀⠀⢀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀<br/>
@@ -85,9 +79,10 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Discord-gothiescran-5865F2?style=for-the-badge&logo=discord&logoColor=white" style="margin: 4px;" />
+  <a href="mailto:rararofiqoh@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="margin: 4px;" /></a>
   <a href="https://www.roblox.com/share?code=3bf5d577785e1f418ee5d2f23cda7671&type=Profile&source=ProfileShare"><img src="https://img.shields.io/badge/Roblox-000000?style=for-the-badge&logo=roblox&logoColor=white" style="margin: 4px;" /></a>
   <a href="https://open.spotify.com/user/31buhaahdm4b5ttthrq7wgmdp6i4"><img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" style="margin: 4px;" /></a>
+  <a href="https://medium.com/@aranaksara"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" style="margin: 4px;" /></a>
 </p>
 
 ---
