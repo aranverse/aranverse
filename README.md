@@ -48,11 +48,11 @@
         <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=aranverse&show_icons=true&theme=rose_pine&hide_border=true" width="100%" alt="GitHub Stats Mini" />
       </a>
       <br/><br/>
-      <!-- Spotify Widget -->
+      <!-- Spotify Lanyard Status -->
       <p>
         🎧 <b>Playlist Mood:</b><br/>
         <a href="https://open.spotify.com/user/31buhaahdm4b5ttthrq7wgmdp6i4">
-          <img src="https://spotify-github-profile.vcroque.com/api/spotify?background_color=0d1117&border_color=0d1117&text_color=ffffff" width="100%" alt="Spotify Status" />
+          <img src="https://lanyard.cnrad.dev/api/819285379982557265?theme=dark&hideDiscrim=true&idleMessage=Lagi%20ga%20dengerin%20lagu" width="100%" alt="Spotify Status" />
         </a>
       </p>
     </td>
@@ -61,8 +61,6 @@
     </td>
   </tr>
 </table>
-
----
 
 ### 🛠️ Tech Stack & Tools
 
