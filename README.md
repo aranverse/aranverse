@@ -21,69 +21,10 @@
 乀 (ˍ, ل ل　　　じしˍ,)ノ
 </p>
 
----
-
-### 🛠️ Tech Stack & Tools
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="38" alt="HTML5" style="margin-right: 12px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="38" alt="CSS3" style="margin-right: 12px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="38" alt="JavaScript" style="margin-right: 12px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" height="38" alt="C#" style="margin-right: 12px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" height="38" alt="PHP" style="margin-right: 12px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" height="38" alt="MySQL" style="margin-right: 12px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blender/blender-original.svg" height="38" alt="Blender" />
-</p>
-
----
-
-<p align="center">
-<pre>
-⠀⠀⠀⠀⢀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⣠⠞⠹⣆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣴⡶⣤⡀⠀⠀⠀⠀⠀⠀
-⠀⠀⣼⣃⠀⠀⠘⠧⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⢿⣿⣿⣧⠀⠀⠀⠀⠀⠀
-⠀⢀⣀⣈⣙⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣿⣿⣿⣿⣧⠀⠀⠀⠀⠀
-⢀⣟⠉⠉⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⣿⣿⣿⣿⢹⡆⠀⠀⠀⠀
-⠈⠉⠋⠙⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣘⣷⡄⢿⡀⢸⠃⠀⠹⣿⣿⣿⣿⡇⠀⠀⠀⠀
-⠀⠀⢀⣤⣶⣿⣿⣿⣿⣿⣿⣷⣶⣤⣤⠾⠋⠉⠀⠀⠀⠈⠀⠀⠀⠛⠲⣽⣿⣿⣿⠃⠀⠀⠀⠀
-⠀⠀⣯⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⢻⡽⠏⠀⠀⠀⠀⠀
-⠀⠀⠈⠻⢿⣿⣿⣿⣿⡿⠿⢛⡟⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢹⡄⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡼⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⢸⣿⡿⢻⡏⠉⠉⠉⠉⠐⠲⢦⣤⣀⣀⣀⣠⡤⠤⠤⠶⠶⠦⢿⢤⣀⣀⣀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⢿⠁⠸⡇⠀⠀⠀⢀⣀⠀⠀⣻⡿⠿⣿⡏⠀⠀⠀⠀⠀⠀⡼⠀⠈⣿⣿⠁
-⠀⠀⠀⠀⠀⠀⠀⠀⢸⠀⠀⠀⠀⠀⠀⢾⣿⠂⢀⡟⠀⠀⠸⡇⠀⣼⣿⡇⠀⠀⠀⠀⠀⣿⠁⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⢧⠸⡇⠀⢀⡀⢀⣀⣠⠎⠀⠐⠿⠃⢳⡀⠈⠉⠀⡀⠀⢠⠀⢀⠏⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠑⠻⣦⣾⢙⠿⢹⡇⠀⠀⠀⠀⠀⠀⠑⣾⠳⡞⢹⣆⣼⡡⠞⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢿⡈⠟⢀⣧⣤⣠⣤⣤⣤⣤⣤⣼⠀⠺⠌⡯⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠙⠒⠛⠁⠀⠀⠀⠀⠀⠀⠀⠈⠓⠶⠞⠁⠀⠀⠀⠀⠀⠀
-</pre>
-</p>
-
-<p align="center">
-<pre>
-⠀⠀  ⡠⠒⢄  ⠀⠀   ᨘ⡴⠒⢦⣀⠔⠒⢄
-⠀⠀ ⡏  ⠀ ⠉⠉⠉⣽⠀⢴⣷⠛⢲⠶⠚⣄
-⠀⠀ ⢸ ⠀⠀⠀  ⠀⠀⠓⠚⠛⠤⡞⠛⠀⡞
- ⠀⠀⢸ ⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⠀ᱸ⠉⢉⣇⣀⣀
-  ⠉⠉⣇⡀   ⣶⠀⠀  ⣀⠀⠀  ⣶⠀⠀⣾⠤⠤
- ⢎ ⠡⠨ ⣃⡀ ⠀⠀⠀⠉⠀⠀⠀      ⡸⠒⠒
-   ⢸⢴⠉⠂⣘ᱸ⠖⢶⠒⠒⡶⢲⠒⡞⢣
-⠀ ᱸ⠢⣉⣁⠜⠒⢄  ⠉⠉⠀⡠⠋⠉⠉
-⠀⠀               ⠑⠒⠓⠒ᱸ
-</pre>
-</p>
-
----
-
-### 🧩 Vibe Check
-
-<table align="center" width="100%">
-  <tr>
-    <td align="center" width="50%">
-      <img src="img/chiikawa.png" width="100%" alt="Chiikawa Footer" />
-    </td>
-    <td align="center" width="50%">
-      <img src="img/music.png" width="100%" alt="Music Footer" />
-    </td>
-  </tr>
-</table>
+🛠️ Tech Stack & Tools
+<p align="center"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" style="margin: 4px;" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" style="margin: 4px;" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" style="margin: 4px;" /> <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" style="margin: 4px;" /> <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" style="margin: 4px;" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" style="margin: 4px;" /> <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" style="margin: 4px;" /> </p>
+🧩 Vibe Check
+<table align="center" width="100%"> <tr> <td align="center" width="45%"> <pre> ⠀⠀⠀⠀⢀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⣠⠞⠹⣆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣴⡶⣤⡀⠀⠀⠀⠀⠀⠀ ⠀⠀⣼⣃⠀⠀⠘⠧⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⢿⣿⣿⣧⠀⠀⠀⠀⠀⠀ ⠀⢀⣀⣈⣙⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣿⣿⣿⣿⣧⠀⠀⠀⠀⠀ ⢀⣟⠉⠉⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⣿⣿⣿⣿⢹⡆⠀⠀⠀⠀ ⠈⠉⠋⠙⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣘⣷⡄⢿⡀⢸⠃⠀⠹⣿⣿⣿⣿⡇⠀⠀⠀⠀ ⠀⠀⢀⣤⣶⣿⣿⣿⣿⣿⣿⣷⣶⣤⣤⠾⠋⠉⠀⠀⠀⠈⠀⠀⠀⠛⠲⣽⣿⣿⣿⠃⠀⠀⠀⠀ ⠀⠀⣯⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⢻⡽⠏⠀⠀⠀⠀⠀ ⠀⠀⠈⠻⢿⣿⣿⣿⣿⡿⠿⢛⡟⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢹⡄⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡼⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⠀⠀⠀⢸⣿⡿⢻⡏⠉⠉⠉⠉⠐⠲⢦⣤⣀⣀⣀⣠⡤⠤⠤⠶⠶⠦⢿⢤⣀⣀⣀⠀ ⠀⠀⠀⠀⠀⠀⠀⠀⢿⠁⠸⡇⠀⠀⠀⢀⣀⠀⠀⣻⡿⠿⣿⡏⠀⠀⠀⠀⠀⠀⡼⠀⠈⣿⣿⠁ ⠀⠀⠀⠀⠀⠀⠀⠀⢸⠀⠀⠀⠀⠀⠀⢾⣿⠂⢀⡟⠀⠀⠸⡇⠀⣼⣿⡇⠀⠀⠀⠀⠀⣿⠁⠀ ⠀⠀⠀⠀⠀⠀⠀⠀⠀⢧⠸⡇⠀⢀⡀⢀⣀⣠⠎⠀⠐⠿⠃⢳⡀⠈⠉⠀⡀⠀⢠⠀⢀⠏⠀⠀ ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠑⠻⣦⣾⢙⠿⢹⡇⠀⠀⠀⠀⠀⠀⠑⣾⠳⡞⢹⣆⣼⡡⠞⠀⠀⠀ ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢿⡈⠟⢀⣧⣤⣠⣤⣤⣤⣤⣤⣼⠀⠺⠌⡯⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠙⠒⠛⠁⠀⠀⠀⠀⠀⠀⠀⠈⠓⠶⠞⠁⠀⠀⠀⠀⠀⠀ </pre> </td> <td align="left" width="55%"> <b>🎧 current mood:</b><br/><br/> debugging code while pretending i know what i'm doing<br/><br/> <b>⚡ fuel:</b> caffeine + spaghetti code<br/> <b>🎮 side quest:</b> learning Blender one tutorial at a time<br/> <b>🧊 3x3 speedrun:</b> still trying to beat my own record </td> </tr> </table>
+🤙 Hit Me Up
+<table align="center" width="100%"> <tr> <td align="left" width="55%"> wanna vibe, talk tech, or just say hi? slide in whichever platform you're comfy with, i don't bite (probably) 👀 <br/><br/> <a href="#"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" style="margin: 4px;" /></a> <a href="#"><img src="https://img.shields.io/badge/Roblox-000000?style=for-the-badge&logo=roblox&logoColor=white" style="margin: 4px;" /></a> <a href="#"><img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" style="margin: 4px;" /></a> </td> <td align="center" width="45%"> <pre> ⠀⠀ ⡠⠒⢄ ⠀⠀ ᨘ⡴⠒⢦⣀⠔⠒⢄ ⠀⠀ ⡏ ⠀ ⠉⠉⠉⣽⠀⢴⣷⠛⢲⠶⠚⣄ ⠀⠀ ⢸ ⠀⠀⠀ ⠀⠀⠓⠚⠛⠤⡞⠛⠀⡞ ⠀⠀⢸ ⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⠀ᱸ⠉⢉⣇⣀⣀ ⠉⠉⣇⡀ ⣶⠀⠀ ⣀⠀⠀ ⣶⠀⠀⣾⠤⠤ ⢎ ⠡⠨ ⣃⡀ ⠀⠀⠀⠉⠀⠀⠀ ⡸⠒⠒ ⢸⢴⠉⠂⣘ᱸ⠖⢶⠒⠒⡶⢲⠒⡞⢣ ⠀ ᱸ⠢⣉⣁⠜⠒⢄ ⠉⠉⠀⡠⠋⠉⠉ ⠀⠀ ⠑⠒⠓⠒ᱸ </pre> </td> </tr> </table>
+<table align="center" width="100%"> <tr> <td align="center" width="50%"> <img src="img/chiikawa.png" width="100%" alt="Chiikawa Footer" /> </td> <td align="center" width="50%"> <img src="img/rarity.png" width="100%" alt="Rarity Footer" /> </td> </tr> </table>
