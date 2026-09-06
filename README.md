@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="img/banner.png" width="100%" alt="Rofiqoh Banner" />
+  <img src="img/banner.png" width="75%" alt="Rofiqoh Banner" />
 </p>
 
 <p align="center">
