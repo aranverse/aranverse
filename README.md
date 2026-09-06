@@ -21,10 +21,93 @@
 乀 (ˍ, ل ل　　　じしˍ,)ノ
 </p>
 
-🛠️ Tech Stack & Tools
-<p align="center"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" style="margin: 4px;" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" style="margin: 4px;" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" style="margin: 4px;" /> <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" style="margin: 4px;" /> <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" style="margin: 4px;" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" style="margin: 4px;" /> <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" style="margin: 4px;" /> </p>
-🧩 Vibe Check
-<table align="center" width="100%"> <tr> <td align="center" width="45%"> <pre> ⠀⠀⠀⠀⢀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⣠⠞⠹⣆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣴⡶⣤⡀⠀⠀⠀⠀⠀⠀ ⠀⠀⣼⣃⠀⠀⠘⠧⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⢿⣿⣿⣧⠀⠀⠀⠀⠀⠀ ⠀⢀⣀⣈⣙⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣿⣿⣿⣿⣧⠀⠀⠀⠀⠀ ⢀⣟⠉⠉⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⣿⣿⣿⣿⢹⡆⠀⠀⠀⠀ ⠈⠉⠋⠙⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣘⣷⡄⢿⡀⢸⠃⠀⠹⣿⣿⣿⣿⡇⠀⠀⠀⠀ ⠀⠀⢀⣤⣶⣿⣿⣿⣿⣿⣿⣷⣶⣤⣤⠾⠋⠉⠀⠀⠀⠈⠀⠀⠀⠛⠲⣽⣿⣿⣿⠃⠀⠀⠀⠀ ⠀⠀⣯⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⢻⡽⠏⠀⠀⠀⠀⠀ ⠀⠀⠈⠻⢿⣿⣿⣿⣿⡿⠿⢛⡟⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢹⡄⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡼⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⠀⠀⠀⢸⣿⡿⢻⡏⠉⠉⠉⠉⠐⠲⢦⣤⣀⣀⣀⣠⡤⠤⠤⠶⠶⠦⢿⢤⣀⣀⣀⠀ ⠀⠀⠀⠀⠀⠀⠀⠀⢿⠁⠸⡇⠀⠀⠀⢀⣀⠀⠀⣻⡿⠿⣿⡏⠀⠀⠀⠀⠀⠀⡼⠀⠈⣿⣿⠁ ⠀⠀⠀⠀⠀⠀⠀⠀⢸⠀⠀⠀⠀⠀⠀⢾⣿⠂⢀⡟⠀⠀⠸⡇⠀⣼⣿⡇⠀⠀⠀⠀⠀⣿⠁⠀ ⠀⠀⠀⠀⠀⠀⠀⠀⠀⢧⠸⡇⠀⢀⡀⢀⣀⣠⠎⠀⠐⠿⠃⢳⡀⠈⠉⠀⡀⠀⢠⠀⢀⠏⠀⠀ ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠑⠻⣦⣾⢙⠿⢹⡇⠀⠀⠀⠀⠀⠀⠑⣾⠳⡞⢹⣆⣼⡡⠞⠀⠀⠀ ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢿⡈⠟⢀⣧⣤⣠⣤⣤⣤⣤⣤⣼⠀⠺⠌⡯⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠙⠒⠛⠁⠀⠀⠀⠀⠀⠀⠀⠈⠓⠶⠞⠁⠀⠀⠀⠀⠀⠀ </pre> </td> <td align="left" width="55%"> <b>🎧 current mood:</b><br/><br/> debugging code while pretending i know what i'm doing<br/><br/> <b>⚡ fuel:</b> caffeine + spaghetti code<br/> <b>🎮 side quest:</b> learning Blender one tutorial at a time<br/> <b>🧊 3x3 speedrun:</b> still trying to beat my own record </td> </tr> </table>
-🤙 Hit Me Up
-<table align="center" width="100%"> <tr> <td align="left" width="55%"> wanna vibe, talk tech, or just say hi? slide in whichever platform you're comfy with, i don't bite (probably) 👀 <br/><br/> <a href="#"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" style="margin: 4px;" /></a> <a href="#"><img src="https://img.shields.io/badge/Roblox-000000?style=for-the-badge&logo=roblox&logoColor=white" style="margin: 4px;" /></a> <a href="#"><img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" style="margin: 4px;" /></a> </td> <td align="center" width="45%"> <pre> ⠀⠀ ⡠⠒⢄ ⠀⠀ ᨘ⡴⠒⢦⣀⠔⠒⢄ ⠀⠀ ⡏ ⠀ ⠉⠉⠉⣽⠀⢴⣷⠛⢲⠶⠚⣄ ⠀⠀ ⢸ ⠀⠀⠀ ⠀⠀⠓⠚⠛⠤⡞⠛⠀⡞ ⠀⠀⢸ ⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⠀ᱸ⠉⢉⣇⣀⣀ ⠉⠉⣇⡀ ⣶⠀⠀ ⣀⠀⠀ ⣶⠀⠀⣾⠤⠤ ⢎ ⠡⠨ ⣃⡀ ⠀⠀⠀⠉⠀⠀⠀ ⡸⠒⠒ ⢸⢴⠉⠂⣘ᱸ⠖⢶⠒⠒⡶⢲⠒⡞⢣ ⠀ ᱸ⠢⣉⣁⠜⠒⢄ ⠉⠉⠀⡠⠋⠉⠉ ⠀⠀ ⠑⠒⠓⠒ᱸ </pre> </td> </tr> </table>
-<table align="center" width="100%"> <tr> <td align="center" width="50%"> <img src="img/chiikawa.png" width="100%" alt="Chiikawa Footer" /> </td> <td align="center" width="50%"> <img src="img/rarity.png" width="100%" alt="Rarity Footer" /> </td> </tr> </table>
+---
+
+### 🛠️ Tech Stack & Tools
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" style="margin: 4px;" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" style="margin: 4px;" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" style="margin: 4px;" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" style="margin: 4px;" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" style="margin: 4px;" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" style="margin: 4px;" />
+  <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" style="margin: 4px;" />
+</p>
+
+---
+
+### 🧩 Vibe Check
+
+<p align="center">
+⠀⠀⠀⠀⢀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀<br/>
+⠀⠀⠀⣠⠞⠹⣆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣴⡶⣤⡀⠀⠀⠀⠀⠀⠀<br/>
+⠀⠀⣼⣃⠀⠀⠘⠧⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⢿⣿⣿⣧⠀⠀⠀⠀⠀⠀<br/>
+⠀⢀⣀⣈⣙⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣿⣿⣿⣿⣧⠀⠀⠀⠀⠀<br/>
+⢀⣟⠉⠉⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⣿⣿⣿⣿⢹⡆⠀⠀⠀⠀<br/>
+⠈⠉⠋⠙⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣘⣷⡄⢿⡀⢸⠃⠀⠹⣿⣿⣿⣿⡇⠀⠀⠀⠀<br/>
+⠀⠀⢀⣤⣶⣿⣿⣿⣿⣿⣿⣷⣶⣤⣤⠾⠋⠉⠀⠀⠀⠈⠀⠀⠀⠛⠲⣽⣿⣿⣿⠃⠀⠀⠀⠀<br/>
+⠀⠀⣯⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⢻⡽⠏⠀⠀⠀⠀⠀<br/>
+⠀⠀⠈⠻⢿⣿⣿⣿⣿⡿⠿⢛⡟⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢹⡄⠀⠀⠀⠀⠀<br/>
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡼⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⠀⠀⠀⠀⠀<br/>
+⠀⠀⠀⠀⠀⠀⠀⢸⣿⡿⢻⡏⠉⠉⠉⠉⠐⠲⢦⣤⣀⣀⣀⣠⡤⠤⠤⠶⠶⠦⢿⢤⣀⣀⣀⠀<br/>
+⠀⠀⠀⠀⠀⠀⠀⠀⢿⠁⠸⡇⠀⠀⠀⢀⣀⠀⠀⣻⡿⠿⣿⡏⠀⠀⠀⠀⠀⠀⡼⠀⠈⣿⣿⠁<br/>
+⠀⠀⠀⠀⠀⠀⠀⠀⢸⠀⠀⠀⠀⠀⠀⢾⣿⠂⢀⡟⠀⠀⠸⡇⠀⣼⣿⡇⠀⠀⠀⠀⠀⣿⠁⠀<br/>
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⢧⠸⡇⠀⢀⡀⢀⣀⣠⠎⠀⠐⠿⠃⢳⡀⠈⠉⠀⡀⠀⢠⠀⢀⠏⠀⠀<br/>
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠑⠻⣦⣾⢙⠿⢹⡇⠀⠀⠀⠀⠀⠀⠑⣾⠳⡞⢹⣆⣼⡡⠞⠀⠀⠀<br/>
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢿⡈⠟⢀⣧⣤⣠⣤⣤⣤⣤⣤⣼⠀⠺⠌⡯⠀⠀⠀⠀⠀⠀<br/>
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠙⠒⠛⠁⠀⠀⠀⠀⠀⠀⠀⠈⠓⠶⠞⠁⠀⠀⠀⠀⠀⠀
+</p>
+
+<p align="center">
+  <b>🎧 current mood:</b> debugging code while pretending i know what i'm doing<br/><br/>
+  <b>⚡ fuel:</b> caffeine + spaghetti code&nbsp;&nbsp;|&nbsp;&nbsp;<b>🎮 side quest:</b> learning Blender one tutorial at a time&nbsp;&nbsp;|&nbsp;&nbsp;<b>🧊 3x3 speedrun:</b> still trying to beat my own record
+</p>
+
+---
+
+### 🤙 Hit Me Up
+
+<p align="center">
+  wanna vibe, talk tech, or just say hi? slide in whichever platform you're comfy with, i don't bite (probably) 👀
+</p>
+
+<p align="center">
+⠀⠀  ⡠⠒⢄  ⠀⠀   ᨘ⡴⠒⢦⣀⠔⠒⢄<br/>
+⠀⠀ ⡏  ⠀ ⠉⠉⠉⣽⠀⢴⣷⠛⢲⠶⠚⣄<br/>
+⠀⠀ ⢸ ⠀⠀⠀  ⠀⠀⠓⠚⠛⠤⡞⠛⠀⡞<br/>
+ ⠀⠀⢸ ⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⠀ᱸ⠉⢉⣇⣀⣀<br/>
+  ⠉⠉⣇⡀   ⣶⠀⠀  ⣀⠀⠀  ⣶⠀⠀⣾⠤⠤<br/>
+ ⢎ ⠡⠨ ⣃⡀ ⠀⠀⠀⠉⠀⠀⠀      ⡸⠒⠒<br/>
+   ⢸⢴⠉⠂⣘ᱸ⠖⢶⠒⠒⡶⢲⠒⡞⢣<br/>
+⠀ ᱸ⠢⣉⣁⠜⠒⢄  ⠉⠉⠀⡠⠋⠉⠉<br/>
+⠀⠀               ⠑⠒⠓⠒ᱸ
+</p>
+
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" style="margin: 4px;" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Roblox-000000?style=for-the-badge&logo=roblox&logoColor=white" style="margin: 4px;" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" style="margin: 4px;" /></a>
+</p>
+
+---
+
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="50%">
+      <img src="img/chiikawa.png" width="100%" alt="Chiikawa Footer" />
+    </td>
+    <td align="center" width="50%">
+      <img src="img/rarity.png" width="100%" alt="Rarity Footer" />
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+﹥*:ꔫ:*+ﾟ<br/>
+˘͈ᵕ˘͈<br/>
+˚୨୧⋆｡˚ ⋆<br/>
+⋆ ˚｡⋆୨୧˚<br/>
+𝐍𝐨𝐰 𝐥𝐨𝐚𝐝𝐢𝐧𝐠. . . ███████▒▒▒ 60%<br/>
+ᴄᴏᴍᴘʟᴇᴛᴇ! ▒▒▒▒▒▒▒▒▒▒ 100%
+</p>
